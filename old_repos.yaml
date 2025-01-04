@@ -1,13 +1,16 @@
-# to be used with monorepo script
+# to be used with monorepo script https://github.com/amidg/scripts/blob/main/monorepo_builder
 repositories:
   # lego controls brick
-  - url: git@github.com:amidg/ddrlegobrick.git
-    branch: firmware
-    path: 2022-lego-controls/cpp
-  - url: git@github.com:amidg/ddrlegobrick.git
-    branch: hardware
-    path: 2022-lego-controls/hardware
-  - url: git@github.com:amidg/ddrlegobrick.git
-    branch: mechanical
-    path: 2022-lego-controls/cad
-
+  #- url: git@github.com:amidg/ddrlegobrick.git
+  #  branch: firmware
+  #  path: 2022-lego-controls/cpp
+  #- url: git@github.com:amidg/ddrlegobrick.git
+  #  branch: hardware
+  #  path: 2022-lego-controls/hardware
+  #- url: git@github.com:amidg/ddrlegobrick.git
+  #  branch: mechanical
+  #  path: 2022-lego-controls/cad
+  # 2019 - USB Hub
+  - url: git@github.com:amidg/generic-usb-hub.git
+    branch: main
+    path: 2019-usb-hub
