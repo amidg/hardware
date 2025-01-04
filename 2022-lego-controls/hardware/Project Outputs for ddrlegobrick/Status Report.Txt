@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ddrlegobrick.PcbDoc]
+   Generated File[ddrlegobrick-RoundHoles.TXT]
+   Generated File[ddrlegobrick-SlotHoles.TXT]
+   Generated File[ddrlegobrick.LDP]
+   Generated File[ddrlegobrick.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:01:05 On 01-Mar-22

@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ddrlegobrick.PcbDoc   01-Mar-22  20:01:05
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TOP_PWR to SIGNAL
+ASCII RoundHoles File : ddrlegobrick-RoundHoles.TXT
+ASCII SlotHoles File : ddrlegobrick-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             48        PTH        4.82inch (122.42mm)
+T2      10mil (0.254mm)                                           Round             252       PTH        24.32inch (617.72mm)
+T3      16mil (0.399mm)                                           Round             16        PTH        0.57inch (14.60mm)
+T4      24mil (0.599mm)                                           Slot              4         PTH        1.43inch (36.25mm)
+T5      35mil (0.899mm)                                           Round             16        PTH        4.86inch (123.32mm)
+T6      43mil (1.1mm)                                             Round             3         PTH        0.20inch (5.08mm)
+T7      98mil (2.499mm)                                           Round             4         PTH        5.47inch (139.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              343
+
+Total Processing Time (hh:mm:ss) : 00:00:00

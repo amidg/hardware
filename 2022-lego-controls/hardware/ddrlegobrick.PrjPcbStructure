@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=CHARGING.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CHARGING.SchDoc|FileName=CONN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CHARGING.SchDoc|FileName=DRV8833.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CHARGING.SchDoc|FileName=ESP32.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CHARGING.SchDoc|FileName=GPIO_EXT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CHARGING.SchDoc|FileName=POWER_REG.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CHARGING.SchDoc|FileName=USB-ESP32.SchDoc|SheetNumber= 
