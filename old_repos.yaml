@@ -1,24 +1,28 @@
 # to be used with monorepo script https://github.com/amidg/scripts/blob/main/monorepo_builder
 repositories:
   # 2022 - lego controls brick
-  #- url: git@github.com:amidg/ddrlegobrick.git
-  #  branch: firmware
-  #  path: 2022-lego-controls/cpp
-  #- url: git@github.com:amidg/ddrlegobrick.git
-  #  branch: hardware
-  #  path: 2022-lego-controls/hardware
-  #- url: git@github.com:amidg/ddrlegobrick.git
-  #  branch: mechanical
-  #  path: 2022-lego-controls/cad
+  - url: git@github.com:amidg/ddrlegobrick.git
+    branch: firmware
+    path: 2022-lego-controls/cpp
+  - url: git@github.com:amidg/ddrlegobrick.git
+    branch: hardware
+    path: 2022-lego-controls/hardware
+  - url: git@github.com:amidg/ddrlegobrick.git
+    branch: mechanical
+    path: 2022-lego-controls/cad
   # 2019 - micro8051
   - url: git@github.com:amidg/micro8051.git
     branch: master
     path: 2019-micro8051
+  # 2019 - DCU Rev 1
+  - url: git@github.com:amidg/ESP32-DCU-Rev1.git
+    branch: master
+    path: 2019-dcu-mkA
   # 2018 - USB Hub
-  #- url: git@github.com:amidg/generic-usb-hub.git
-  #  branch: main
-  #  path: 2018-usb-hub
+  - url: git@github.com:amidg/generic-usb-hub.git
+    branch: main
+    path: 2018-usb-hub
   # 2017 - 16u2 USB Stick
   - url: git@github.com:amidg/16u2-usb-stick-rev2.git
-    branch: master
+    branch: main
     path: 2017-16u2-stick

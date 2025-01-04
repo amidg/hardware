@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GT_16u2_Rev2.PrjPcb]
+   Generated File[GT_16u2_Rev2.TXT]
+   Generated File[GT_16u2_Rev2.LDP]
+   Generated File[GT_16u2_Rev2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:41:33 On 26-Jan-21
